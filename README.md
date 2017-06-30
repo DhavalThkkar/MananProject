@@ -1,0 +1,2 @@
+# MananProject
+RNN Stock Prediction
