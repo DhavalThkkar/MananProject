@@ -1,7 +1,7 @@
-# MananProject
-RNN Stock Prediction
+# RNN Stock Prediction
 
-# Install the necessary libraries
+
+## Install the necessary libraries
 I would suggest you to install the anaconda3 distribution from Continuum Analytics
 Based on the operating system download the distribution<br/>
 For Windows : https://repo.continuum.io/archive/Anaconda3-4.4.0-Windows-x86_64.exe<br/>
